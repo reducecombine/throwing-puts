@@ -1,4 +1,4 @@
-(defproject throwing-puts "0.1.0-SNAPSHOT"
+(defproject throwing-puts "0.1.0"
   :description "core.async/>! wrapping macros that throw if writing would block/park"
   :url "https://github.com/vemv/throwing-puts"
   :license {:name "Eclipse Public License"
